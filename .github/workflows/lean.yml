@@ -10,7 +10,7 @@ name: Lean SSR+ Plus
 
 on:
   release:
-#    types: [published]
+    types: [published]
 #  push:
 #    branches:
 #      - master
