@@ -1,3 +1,7 @@
+#云编译固件下载链接  
+
+https://github.com/kyarazhan/GDock-Lean-Lienol-Vssr/actions
+
 # Actions-OpenWrt
 
 [![LICENSE](https://img.shields.io/github/license/mashape/apistatus.svg?style=flat-square&label=LICENSE)](https://github.com/P3TERX/Actions-OpenWrt/blob/master/LICENSE)
