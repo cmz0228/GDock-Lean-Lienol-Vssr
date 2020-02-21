@@ -11,5 +11,6 @@ git clone https://github.com/jerrykuku/lua-maxminddb package/lua-maxminddb
 git clone https://github.com/jerrykuku/luci-app-vssr package/luci-app-vssr
 git clone https://github.com/jerrykuku/luci-theme-argon package/luci-theme-argon
 git clone https://github.com/Lienol/openwrt-package package/openwrt-package
+git clone https://github.com/pymumu/smartdns.git
 ./scripts/feeds update -a
 ./scripts/feeds install -a
